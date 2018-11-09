@@ -20,5 +20,5 @@ def webhook():
 
 
 if __name__ == '__main__':
-    print("Starting app on port %d" % (port))
+    #print("Starting app on port %d" % (port))
     app.run()
