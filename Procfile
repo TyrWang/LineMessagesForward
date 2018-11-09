@@ -1,1 +1,1 @@
-web: python webhook.py --log-file -
+web: python app.py --log-file -
